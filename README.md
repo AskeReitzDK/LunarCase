@@ -1,2 +1,1 @@
-# LunarCase
-Lunar Case study
+Case study
